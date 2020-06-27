@@ -1,4 +1,4 @@
-#MSkin
+## MSkin
 Welcome to my first osu skin in development!
 
 ## Features
