@@ -10,6 +10,9 @@ Welcome to my first osu skin in development!
 * New Interface layout
 * Custom Sounds
 
+#### Important Notes
+* Set HitCircleOverlap: 50 if using dots instead of numbers.
+
 ## Authors
 * GythieLamb
 * CWabbit
