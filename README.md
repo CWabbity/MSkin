@@ -11,6 +11,8 @@ Welcome to my first osu skin in development!
 - [ ] Custom Interface
 - [ ] Custom Sounds
 
+## [Downloads](https://github.com/CWabbity/MSkin/releases)
+
 #### Important Notes
 * Set **HitCircleOverlap: 50** if using **dots** instead of numbers.
 
