@@ -17,5 +17,5 @@ Welcome to my first osu skin in development!
 * Set **HitCircleOverlap: 50** if using **dots** instead of numbers.
 
 ## Authors
-@GythieLamb
-@CWabbity
+* [GythieLamb](https://github.com/GythieLamb)
+* [CWabbity](https://github.com/CWabbity)
