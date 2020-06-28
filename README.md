@@ -1,9 +1,6 @@
 # MSkin
 Welcome to my first osu skin in development!
 
-#### Important Notes
-* Set **HitCircleOverlap: 50** in *skin.ini* if using **dots** instead of numbers.
-
 ## Features
 * Clean Osu!Standard Gameplay
 * Custom Cursors
@@ -15,6 +12,11 @@ Welcome to my first osu skin in development!
 - [ ] Custom Sounds
 
 ## [Downloads](https://github.com/CWabbity/MSkin/releases)
+
+#### Important Notes
+* Set **HitCircleOverlap: 50** in *skin.ini* if using **dots** instead of numbers.
+
+## Extras
 
 ## Authors
 * [GythieLamb](https://github.com/GythieLamb)
