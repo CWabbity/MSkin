@@ -1,5 +1,5 @@
 # MSkin
-Welcome to my first osu skin in development! [Download MSkin](https://github.com/CWabbity/MSkin/releases)
+Welcome to my first osu skin in development! **[Download MSkin](https://github.com/CWabbity/MSkin/releases)**
 
 ## Features
 * Clean Osu!Standard Gameplay
