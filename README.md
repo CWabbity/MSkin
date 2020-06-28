@@ -1,4 +1,4 @@
-## MSkin
+# MSkin
 Welcome to my first osu skin in development!
 
 ## Features
@@ -11,7 +11,7 @@ Welcome to my first osu skin in development!
 * Custom Sounds
 
 #### Important Notes
-* Set HitCircleOverlap: 50 if using dots instead of numbers.
+* Set **HitCircleOverlap: 50** if using **dots** instead of numbers.
 
 ## Authors
 * GythieLamb
