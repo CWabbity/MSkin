@@ -3,7 +3,8 @@ Welcome to my first osu skin in development! **[Download MSkin](https://github.c
 
 ## Features
 * Clean Osu!Standard Gameplay
-* Custom Cursors
+* Minimal Interface
+* HitSounds
 * More features to be added soon!
 
 ## Planned
