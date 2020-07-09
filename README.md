@@ -4,16 +4,11 @@ Welcome to my first osu skin in development! **[Download MSkin](https://github.c
 ## Screenshots
 Comming Soon...
 
-## Features
-* Clean Osu!Standard Gameplay
-* Minimal Interface
-* HitSounds
-* More features to be added soon!
-
 #### Important Notes
 * Set **HitCircleOverlap: 50** in *skin.ini* if using **dots** instead of numbers.
 
 ## Extras
+* Extras folder...
 
 ## Authors
 * [GythieLamb](https://github.com/GythieLamb)
