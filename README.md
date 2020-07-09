@@ -10,13 +10,6 @@ Comming Soon...
 * HitSounds
 * More features to be added soon!
 
-## Planned
-- [X] Custom Osu!Standard Gameplay
-- [X] Custom Interface
-- [X] Custom Sounds
-- [ ] Mod Icons
-- [ ] Others?
-
 #### Important Notes
 * Set **HitCircleOverlap: 50** in *skin.ini* if using **dots** instead of numbers.
 
