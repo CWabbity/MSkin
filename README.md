@@ -1,3 +1,6 @@
+# UPDATE!!!!!!!
+I will only be releasing releases over here now and no more light updates.
+
 # MSkin
 Welcome to my first osu skin in development! **[Download MSkin](https://github.com/CWabbity/MSkin/releases)**
 
