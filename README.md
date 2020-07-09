@@ -1,5 +1,6 @@
 # MSkin
-Welcome to my first osu skin in development!
+Minimal/Clean osu skin. 
+If you want to see the updates and things we are working on, [click here](https://trello.com/b/QRyZuWSD).
 
 ## Screenshots
 Coming Soon...
@@ -7,7 +8,7 @@ Coming Soon...
 ## [Download MSkin](https://github.com/CWabbity/MSkin/releases)
 
 ### Goals
-- [ ] Interface
+- [X] Interface
 - [ ] Sounds
 - [ ] Hitsounds
 - [ ] Osu!Standard Gameplay
